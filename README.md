@@ -1,5 +1,6 @@
-# Web-Development
-Name:sravani
-Section:csm-5 
-roll no:26001150
-project:web development 
+# WEB DEVELOPMENT
+## Student Details
+.Name: KAJA SRAVANI
+.Roll no: 26001150
+.section: csm-5
+.project: web development
